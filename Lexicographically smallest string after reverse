@@ -1,0 +1,22 @@
+class Solution {
+    public String lexSmallest(String s) {
+        String ans = s;
+        for (int k = 1; k <= s.length(); k++) {
+            StringBuilder sb = new StringBuilder(s.substring(0, k));
+            sb.reverse();
+            String l = sb.toString() + s.substring(k);
+            if (l.compareTo(ans) < 0) {
+                ans = l;
+            }
+        }
+        for (int k = 1; k < s.length(); k++) {
+            StringBuilder sb = new StringBuilder(s.substring(s.length() - k));
+            sb.reverse();
+            String l = s.substring(0, s.length() - k) + sb.toString();
+            if (l.compareTo(ans) < 0) {
+                ans = l;
+            }
+        }
+        return ans;
+    }
+}

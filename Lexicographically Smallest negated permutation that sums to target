@@ -1,0 +1,18 @@
+class Solution {
+    public int[] lexSmallestNegatedPerm(int n, long target) {
+        long su = 1L * n * (n + 1) / 2;
+        if (((su + target) & 1) != 0 || Math.abs(target) > su)
+            return new int[0];
+        int i = 0, j = n - 1, res[] = new int[n];
+        for (int a = n; a >= 1; --a) {
+            if (target + a <= 1L * a * (a - 1) / 2) {
+                res[i++] = -a;
+                target += a;
+            } else {
+                res[j--] = a;
+                target -= a;
+            }
+        }
+        return res;
+    }
+}

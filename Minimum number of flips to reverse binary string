@@ -1,0 +1,14 @@
+class Solution {
+    public int minimumFlips(int n) {
+        String binaryStr=Integer.toBinaryString(n);
+        StringBuilder sb=new StringBuilder(binaryStr);
+        String reverse=sb.reverse().toString();
+        int ops=0;
+        for(int i=0;i<binaryStr.length();i++){
+            if(binaryStr.charAt(i)!=reverse.charAt(i)){
+                ops+=1;
+            }
+        }
+        return ops;
+    }
+}

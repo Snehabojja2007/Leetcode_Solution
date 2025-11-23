@@ -1,0 +1,14 @@
+class Solution {
+    public int totalWaviness(int num1, int num2) {
+        int waviness=0;
+        for(int j=num1;j<=num2;j++){
+            String n=String.valueOf(j);
+            for(int i=1;i<n.length()-1;i++){
+                if(((n.charAt(i)>n.charAt(i+1))&&(n.charAt(i)>n.charAt(i-1)))||((n.charAt(i)<n.charAt(i+1))&&(n.charAt(i)<n.charAt(i-1)))){
+                    waviness++;
+                }
+            }
+        }
+        return waviness;
+    }
+}

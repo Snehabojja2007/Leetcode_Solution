@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |

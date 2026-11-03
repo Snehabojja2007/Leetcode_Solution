@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->

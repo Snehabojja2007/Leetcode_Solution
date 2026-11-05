@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -116,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->

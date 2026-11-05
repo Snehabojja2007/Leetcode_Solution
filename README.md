@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0312-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
@@ -100,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->

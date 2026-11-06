@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
@@ -103,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
+| [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->

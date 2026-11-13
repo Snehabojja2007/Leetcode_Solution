@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer

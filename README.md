@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |

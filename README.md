@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -75,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [2747-count-zero-request-servers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |

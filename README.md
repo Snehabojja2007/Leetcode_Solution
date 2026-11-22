@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1048-longest-string-chain) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Snehabojja2007/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
